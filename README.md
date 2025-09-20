@@ -1,5 +1,5 @@
 # Links
-</p> <style>
+<style>
     body {
       font-family: Arial, sans-serif;
       background: #f8f9fa;
